@@ -1,6 +1,8 @@
 #Proyecto vision artificial
 #ITSJR
-# Daniel Margarito Cruz
+# Daniel Margarito Cruz 
+
+#LINK VIDEO DEMO : https://youtu.be/10FoS20gjbw
 
 #Materiales Vision Artificial
 #Arduino UNO , 2 SERVOS SG90, CAMARA WEB, W7 python 3 LIBS Open cv inmutils pyserial time
